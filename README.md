@@ -1,4 +1,8 @@
 # gitskills
 from remote repository clone to local
 alllala
-create new branch quick & simple
+<<<<<<< HEAD
+create new branch quick and simple
+=======
+create new branch quick and simple
+>>>>>>> test
